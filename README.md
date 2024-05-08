@@ -8,7 +8,7 @@ I LOVE CODE
 
 *   🌍  I'm based in Antananarivo, Madagascar
 *   ✉️  You can contact me at [andomiraniaina@gmail.com](mailto:andomiraniaina@gmail.com)
-*   🧠  I'm learning react,springboot, next
+*   🧠  I'm learning react,django, next
 *   ⚡  I have a cat named Potsy
 
 ### Skills 
